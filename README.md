@@ -37,7 +37,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
 | Admin Dashboard | Doctor Dashboard | Patient Dashboard |
 | -------| -------| -------|
-| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
+| Email: `admin@docspot.com` | Email: `doctor@docspot.com` |   Email: `patient@docspot.com` | 
 | Password: `123` |  Password: `123` |  Password: `123` |
  
   
